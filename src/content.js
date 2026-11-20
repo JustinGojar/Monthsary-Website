@@ -1,16 +1,16 @@
 // ✏️ EDIT EVERYTHING HERE — names, captions, the letter and the song.
 
 export const content = {
-  title: 'Happy Monthsary, baby!',
-  subtitle: 'wanna see my gift?',
-  yes: 'yes, love',
-  no: 'no, thanks',
+  title: 'Happy Monthsary, Anata!',
+  subtitle: 'Wanna see my gift?',
+  yes: 'Yes, Love',
+  no: 'No, thanks',
 
-  sad: { line: "are you sure, baby? i'm sure you'll love it", back: 'back' },
+  sad: { line: "Are you sure, Love? I'm sure you'll love it.", back: 'Back' },
 
   menu: {
     prompt: 'pick and click!',
-    footer: "i hope you'll love them, baby <3",
+    footer: "I hope you'll love them, baby <3",
     cards: { photos: 'photos', letter: 'letter', flowers: 'flowers' },
   },
 
